@@ -10,7 +10,7 @@ import Projects from "./sections/Projects";
 import Experience from "./sections/Experience";
 import Contact from "./sections/Contact";
 import Footer from "./sections/Footer";
-import IntroAnimation from "./components/INtroAnimation";
+import IntroAnimation from "./components/IntroAnimation";
 
 export default function App() {
 	const [introDone, setIntroDone] = useState(false);
