@@ -20,6 +20,13 @@ const experiences = [
 		description:
 			"Achieved a 70% time decrease in Message Delivery System, memoised recursion workflow, resulting in process time from 120 minutes to 35 minutes.",
 	},
+	{
+		role: "Software Development Engineer I",
+		company: "Amazon",
+		duration: "Jan 2026 - Present",
+		description:
+			"Implemented CloudWatch-based steady-state validation for data replication workflows, orchestrating composite alarm checks and metric threshold validations via AWS Step Functions and Lambdas.",
+	}
 ];
 
 export default experiences;
